@@ -1,0 +1,14 @@
+{
+    "name": "mygruenbeck",
+    "display_name": "MyGruenbeck Integration",
+    "description": "Integration for MyGruenbeck devices.",
+    "url": "https://github.com/MarcelFranken/hass_mygruenbeck",
+    "category": "Integration",
+    "authors": ["MarcelFranken"],
+    "version": "1.0.0",
+    "requirements": ["homeassistant>=2021.10.0"],
+    "logo": "https://www.gruenbeck.de/typo3conf/ext/sitepackage_gruenbeck/Resources/Public/Images/gruenbeck-logo.svg",
+    "domain": "mygruenbeck",
+    "documentation": "https://github.com/MarcelFranken/hass_mygruenbeck/blob/main/README.md"
+  }
+  
