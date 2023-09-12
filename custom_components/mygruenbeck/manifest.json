@@ -1,0 +1,10 @@
+{
+    "domain": "mygruenbeck",
+    "name": "My Gruenbeck Integration",
+    "documentation": "https://github.com/MarcelFranken/hass_mygruenbeck",
+    "codeowners": ["@MarcelFranken"],
+    "version": "0.1",
+    "dependencies": [],
+    "requirements": []
+  }
+  
