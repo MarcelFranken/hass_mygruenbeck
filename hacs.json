@@ -9,6 +9,7 @@
     "requirements": ["homeassistant>=2021.10.0"],
     "logo": "https://www.gruenbeck.de/typo3conf/ext/sitepackage_gruenbeck/Resources/Public/Images/gruenbeck-logo.svg",
     "domain": "mygruenbeck",
-    "documentation": "https://github.com/MarcelFranken/hass_mygruenbeck/blob/main/README.md"
+    "documentation": "https://github.com/MarcelFranken/hass_mygruenbeck/blob/main/README.md",
+    "render_readme": true
   }
   
