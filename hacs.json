@@ -5,7 +5,7 @@
     "url": "https://github.com/MarcelFranken/hass_mygruenbeck",
     "category": "Integration",
     "authors": ["MarcelFranken"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "requirements": ["homeassistant>=2021.10.0"],
     "logo": "https://www.gruenbeck.de/typo3conf/ext/sitepackage_gruenbeck/Resources/Public/Images/gruenbeck-logo.svg",
     "domain": "mygruenbeck",

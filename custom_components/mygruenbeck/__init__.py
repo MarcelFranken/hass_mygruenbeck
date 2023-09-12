@@ -25,6 +25,8 @@ async def async_set_config_flow(hass, config_entry):
     """Set up the config flow for My Gruenbeck."""
     hass.async_create_task(
         hass.config_entries.flow.async_init(
-            DOMAIN, context={"source": config_entries.SOURCE_IMPORT}, data=config_entry.data
+            DOMAIN,
+            context={"source": config_entries.SOURCE_IMPORT},
+            data=config_entry.data,
         )
     )
